@@ -5,4 +5,4 @@ Mi paso a paso del proyecto CRONOMETRO
 
 2. Crear estructura base en HTML y conectar los archivos. Css con su link y JavaScript con su script.
 
-3.
+3. Estructuro el HTML para el cronometro.
