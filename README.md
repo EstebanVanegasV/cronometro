@@ -8,3 +8,5 @@ Mi paso a paso del proyecto CRONOMETRO
 3. Estructuro el HTML para el cronometro.(rama2)
 
 4. Agrego el estilo al cronometro en el archivo CSS.(rama3)
+
+5. Realizo el codigo de las funciones con codigo del cronometro con JavaScript.(rama4)
